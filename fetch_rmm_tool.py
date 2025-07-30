@@ -15,7 +15,7 @@ for item in data:
     paths = details.get("InstallationPaths")
     
     if isinstance(paths, list):
-        filename = os.path.basename(path).lower()
+        filename = os.path.basename(paths).lower()
             
         # Keep only exact .exe files without wildcards
         if "*" not in filename and filename.endswith(".exe"):
