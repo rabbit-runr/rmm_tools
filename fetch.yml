@@ -1,0 +1,27 @@
+name: Fetch Installation Paths
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Every day at 6 AM UTC
+  workflow_dispatch:     # Allow manual runs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Fetch and write installation paths
+        run: python fetch_rmm_tool.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add installation_paths.txt
+          git commit -m "Update installation_paths.txt"
+          git push
