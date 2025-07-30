@@ -15,12 +15,16 @@ for item in data:
     
     # Make sure paths is a list before extending
     if isinstance(paths, list):
-        exe_paths = [path for path in paths if ".exe" in path.lower()]
-        installation_paths.extend(exe_paths)
+        for path in paths:
+            if ".exe" in path.lower():
+                # Normalize path and extract filename
+                filename = os.path.basename(path.strip("*")).lower()
+                if filename.endswith(".exe"):
+                    exe_names.add(filename)
 
 # Write to file
 with open("installation_paths.txt", "w") as file:
-    for path in installation_paths:
-        file.write(path + "\n")
+    for name in sorted(exe_names):
+        file.write(name + "\n")
 
 print("Installation paths written to 'installation_paths.txt'")
