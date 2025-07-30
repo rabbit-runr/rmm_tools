@@ -6,11 +6,16 @@ on:
   workflow_dispatch:     # Allow manual runs
 
 jobs:
-  update:
+  run-pytoon-script:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
+
+      - name: Setup Python
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
       - name: Install requests
         run: pip install requests
