@@ -14,9 +14,11 @@ for item in data:
     paths = details.get("InstallationPaths")
     
     if isinstance(paths, list):
-        # Only keep paths that contain '.exe'
-        exe_paths = [path for path in paths if ".exe" in path.lower()]
-        installation_paths.extend(exe_paths)
+        filename = os.path.basename(path).lower()
+            
+        # Keep only exact .exe files without wildcards
+        if "*" not in filename and filename.endswith(".exe"):
+            installation_paths.append(path)
 
 # Write filtered paths to file
 with open("installation_paths.txt", "w") as file:
