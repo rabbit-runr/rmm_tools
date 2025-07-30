@@ -17,14 +17,14 @@ for item in data:
     if isinstance(paths, list):
         for path in paths:
             filename = os.path.basename(path).lower()
-            
+
             # Keep only exact .exe files without wildcards
             if "*" not in filename and filename.endswith(".exe"):
-                installation_paths.append(path)
+                installation_paths.append(filename)  # just the filename, not full path
 
-# Write filtered paths to file
+# Write cleaned filenames to file
 with open("installation_paths.txt", "w") as file:
-    for path in installation_paths:
-        file.write(path + "\n")
+    for filename in sorted(set(installation_paths)):
+        file.write(filename + "\n")
 
-print("Filtered .exe paths written to 'installation_paths.txt'")
+print("Cleaned .exe filenames written to 'installation_paths.txt'")
