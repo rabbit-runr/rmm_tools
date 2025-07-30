@@ -8,7 +8,7 @@ response.raise_for_status()
 
 data = response.json()
 
-installation_paths = []
+exe_filenames = set()
 
 for item in data:
     details = item.get("Details", {})
@@ -18,13 +18,13 @@ for item in data:
         for path in paths:
             filename = os.path.basename(path).lower()
 
-            # Keep only exact .exe files without wildcards
+            # Filter exact .exe files (no wildcards, clean filenames only)
             if "*" not in filename and filename.endswith(".exe"):
-                installation_paths.append(filename)  # just the filename, not full path
+                exe_filenames.add(filename)  # only keep filename
 
 # Write cleaned filenames to file
 with open("installation_paths.txt", "w") as file:
-    for filename in sorted(set(installation_paths)):
+    for filename in sorted(exe_filenames):
         file.write(filename + "\n")
 
 print("Cleaned .exe filenames written to 'installation_paths.txt'")
