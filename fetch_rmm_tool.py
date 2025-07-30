@@ -15,7 +15,8 @@ for item in data:
     
     # Make sure paths is a list before extending
     if isinstance(paths, list):
-        installation_paths.extend(paths)
+        exe_paths = [path for path in paths if ".exe" in path.lower()]
+        installation_paths.extend(exe_paths)
 
 # Write to file
 with open("installation_paths.txt", "w") as file:
