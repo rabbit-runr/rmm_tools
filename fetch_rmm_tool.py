@@ -13,13 +13,14 @@ installation_paths = []
 for item in data:
     details = item.get("Details", {})
     paths = details.get("InstallationPaths")
-    
+
     if isinstance(paths, list):
-        filename = os.path.basename(paths).lower()
+        for path in paths:
+            filename = os.path.basename(path).lower()
             
-        # Keep only exact .exe files without wildcards
-        if "*" not in filename and filename.endswith(".exe"):
-            installation_paths.append(path)
+            # Keep only exact .exe files without wildcards
+            if "*" not in filename and filename.endswith(".exe"):
+                installation_paths.append(path)
 
 # Write filtered paths to file
 with open("installation_paths.txt", "w") as file:
