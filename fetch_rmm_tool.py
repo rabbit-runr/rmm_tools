@@ -21,6 +21,7 @@ for item in data:
                 # Normalize path and extract filename
                 filename = os.path.basename(path.strip("*")).lower()
                 if filename.endswith(".exe"):
+                    exe_names = set()
                     exe_names.add(filename)
 
 # Write to file
