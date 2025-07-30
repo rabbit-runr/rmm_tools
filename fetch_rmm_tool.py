@@ -1,5 +1,4 @@
 import requests
-import os
 
 url = "https://lolrmm.io/api/rmm_tools.json"
 
@@ -14,19 +13,14 @@ for item in data:
     details = item.get("Details", {})
     paths = details.get("InstallationPaths")
     
-    # Make sure paths is a list before extending
     if isinstance(paths, list):
-        for path in paths:
-            if ".exe" in path.lower():
-                # Normalize path and extract filename
-                filename = os.path.basename(path.strip("*")).lower()
-                if filename.endswith(".exe"):
-                    exe_names = set()
-                    exe_names.add(filename)
+        # Only keep paths that contain '.exe'
+        exe_paths = [path for path in paths if ".exe" in path.lower()]
+        installation_paths.extend(exe_paths)
 
-# Write to file
+# Write filtered paths to file
 with open("installation_paths.txt", "w") as file:
-    for name in sorted(exe_names):
-        file.write(name + "\n")
+    for path in installation_paths:
+        file.write(path + "\n")
 
-print("Installation paths written to 'installation_paths.txt'")
+print("Filtered .exe paths written to 'installation_paths.txt'")
