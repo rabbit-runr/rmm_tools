@@ -1,4 +1,5 @@
 import requests
+import os
 
 url = "https://lolrmm.io/api/rmm_tools.json"
 
