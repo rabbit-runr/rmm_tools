@@ -1,0 +1,781 @@
+ehorus standalone.exe
+ehorus_agent.exe
+can't find this one
+can't find this one
+ddsystem.exe
+dd.exe
+distant-desktop.exe
+This installs a modified VNC and cannot be blocked by path separate from VNC
+This installs a modified VNC and cannot be blocked by path separate from VNC
+*\RealVNC\VNC4\*
+addigy-*.pkg
+tdp2tcp.exe
+rdp2tcp.py
+OrayRemoteShell.exe
+OrayRemoteService.exe
+sunlogin*.exe
+C:\Program Files\ManageEngine\ManageEngine Free Tools\Launcher\*
+*\ManageEngine\*
+SMPCSetup.exe
+showmypc*.exe
+showmypc.exe
+smpcsetup.exe
+C:\Users\*\AppData\Local\Google\Chrome\User Data\Default\Extensions\iodihamcpbpeioajjeobimgagajmlibd*
+*Users\*\AppData\Local\Google\Chrome\User Data\Default\Extensions\iodihamcpbpeioajjeobimgagajmlibd*
+fastclient.exe
+fastmaster.exe
+FastViewer.exe
+C:\Program Files (x86)\Radmin Viewer 3\Radmin.exe
+C:\Windows\SysWOW64\rserver30\rserver3.exe
+C:\Windows\SysWOW64\rserver30\FamItrfc
+C:\Windows\SysWOW64\rserver30\FamItrf2
+Syncro.Installer.exe
+Kabuto.App.Runner.exe
+Syncro.Overmind.Service.exe
+Kabuto.Installer.exe
+KabutoSetup.exe
+Syncro.Service.exe
+Kabuto.Service.Runner.exe
+Syncro.App.Runner.exe
+SyncroLive.Service.exe
+SyncroLive.Agent.exe
+PCIVIDEO.EXE
+supporttool.exe
+C:\Program Files\uvnc bvba\UltraVNC\*
+*\uvnc bvba\UltraVNC\*
+*\UVNC_Launch.exe
+*\winvnc.exe
+*\vncviewer.exe
+Sorillus-Launcher*.exe
+Sorillus Launcher.exe
+pcstarter.exe
+turbomeeting.exe
+turbomeetingstarter.exe
+AgentSetup-*.exe
+aweray_remote*.exe
+AweSun.exe
+C:\Program Files (x86)\GoTo Opener
+*\GoTo Opener
+laplink.exe
+laplink-everywhere-setup*.exe
+laplinkeverywhere.exe
+llrcservice.exe
+serverproxyservice.exe
+OOSysAgent.exe
+rdp.exe
+C:\Program Files (x86)\ScreenConnect Client (Random)\ScreenConnect.ClientService.exe
+Remote Workforce Client.exe
+*\*\ScreenConnect.ClientService.exe
+C:\Program Files (x86)\ScreenConnect Client (<string ID>)\*
+*\ScreenConnect Client*\*
+*\*\ScreenConnect.WindowsClient.exe
+screenconnect*.exe
+screenconnect.windowsclient.exe
+Remote Workforce Client.exe
+screenconnect*.exe
+ConnectWiseControl*.exe
+connectwise*.exe
+screenconnect.windowsclient.exe
+screenconnect.clientservice.exe
+strwinclt.exe
+Splashtop_Streamer_Windows*.exe
+SplashtopSOS.exe
+sragent.exe
+srmanager.exe
+srserver.exe
+srservice.exe
+rd.exe
+rudesktop*.exe
+issuser.exe
+landeskagentbootstrap.exe
+LANDeskPortalManager.exe
+ldinv32.exe
+ldsensors.exe
+C:\Program Files (x86)\LANDesk\*
+*\LANDesk\*
+*\issuser.exe
+*\softmon.exe
+*\tmcsvc.exe
+C:\ProgramData\Total Software Deployment\*
+*\Total Software Deployment\*
+*\tniwinagent.exe
+*\Tsdservice.exe
+grabberEM.*msi
+grabberTT*.msi
+dwagsvc.exe
+dwagent.exe
+dwagsvc.exe
+mionet.exe
+mionetmanager.exe
+pdq-connect*.exe
+royalts.exe
+echoserver*.exe
+echoware.dll
+gp3.exe
+gp4.exe
+gp5.exe
+Kabuto.App.Runner.exe
+clientmrinit.exe
+mgntsvc.exe
+routernt.exe
+hsloader.exe
+ihcserver.exe
+instanthousecall.exe
+instanthousecall.exe
+rustdesk*.exe
+rustdesk.exe
+neturo*.exe
+ntrntservice.exe
+neturo.exe
+ninjarmmagent.exe
+NinjaRMMAgent.exe
+NinjaRMMAgenPatcher.exe
+ninjarmm-cli.exe
+TaniumClient.exe
+TaniumCX.exe
+TaniumExecWrapper.exe
+TaniumFileInfo.exe
+TPowerShell.exe
+JumpCloud*.exe 
+FixMeit Client.exe
+TiExpertStandalone.exe
+FixMeitClient*.exe
+TiExpertCore.exe
+FixMeit Unattended Access Setup.exe
+FixMeit Expert Setup.exe
+TiExpertCore.exe
+fixmeitclient.exe
+TiClientCore.exe
+TiClientHelper*.exe
+9380CC75B872221A7425D7503565B67580407F60
+C:\Program Files (x86)\GoToMyPC\*
+islalwaysonmonitor.exe
+isllight.exe
+isllightservice.exe
+pcvisit.exe
+pcvisit_client.exe
+pcvisit-easysupport.exe
+pcvisit_service_client.exe
+nhostsvc.exe
+nhstw32.exe
+ngstw32.exe
+Netop Ondemand.exe
+nldrw32.exe
+rmserverconsolemediator.exe
+ImperoInit.exe
+Connect.Backdrop.cloud*.exe
+ImperoClientSVC.exe
+desktopnow.exe
+fleetdeck_agent_svc.exe
+fleetdeck_commander_svc.exe
+fleetdeck_installer.exe
+fleetdeck_commander_launcher.exe
+fleetdeck_agent.exe
+c:\Program Files\*\Duplicati.Server.exe
+*\*\Duplicati.Server.exe
+ocsinventory.exe
+ocsservice.exe
+NTRsupportPro_EN.exe
+remote_host.exe
+remoting_host.exe
+C:\Program Files (x86)\Google\Chrome Remote Desktop\*
+*\Google\Chrome Remote Desktop\*
+*\remoting_host.exe
+CagService.exe
+AEMAgent.exe
+C:\Program Files (x86)\ScreenConnect Client (<string ID>)\*
+*\ScreenConnect*Client*\*
+tigervnc*.exe
+winvnc4.exe
+C:\Program Files\TightVNC\*
+*\TightVNC\*
+*\tvnserver.exe
+ManualLauncher.exe
+hsloader.exe
+InstantHousecall.exe
+ihcserver.exe
+instanthousecall.exe
+ConnectAppSetup*.exe
+ConnectShellSetup*.exe
+Connect.exe
+ConnectDetector.exe
+bomgar-scc-*.exe
+bomgar-scc.exe
+bomgar-pac-*.exe
+bomgar-pac.exe
+bomgar-rdp.exe
+Deskroll.exe
+DeskRollUA.exe
+C:\*\MobaXterm_installer_12.1.msi
+*\MobaXterm_installer_*.msi
+*\Mobatek\MobaXterm\*
+remote-it-installer.exe
+remote.it.exe
+remoteit.exe
+C:\Program Files (x86)\Splashtop\*
+*\Splashtop\Splashtop Remote\Client for RMM\*
+strwinclt.exe
+*\AgentPackageNetworkDiscovery.exe
+*\AgentPackageTaskScheduler.exe
+*\ATERA Networks\AteraAgent\*
+*\AteraAgent.exe
+atera_agent.exe
+atera_agent.exe
+ateraagent.exe
+C:\Program Files\ATERA Networks\AteraAgent\*
+C:\Program Files\Atera Networks
+C:\Program Files (x86)\Atera Networks
+syncrosetup.exe
+ScreenMeetSupport.exe
+ScreenMeet.Support.exe
+zerotier*.msi
+zerotier*.exe
+zero-powershell.exe
+meshcentral*.exe
+meshagent*.exe
+AcronisCyberProtectConnectQuickAssist*.exe
+AcronisCyberProtectConnectAgent.exe
+C:\*\nxplayer.exe
+*\nxplayer.exe
+pstlaunch.exe
+ptdskclient.exe
+ptdskhost.exe
+C:\Windows\System32\mstsc.exe
+*Windows\System32\mstsc.exe
+helpbeam*.exe
+GetScreen.exe
+getscreen.exe
+beamyourscreen.exe
+beamyourscreen-host.exe
+TeamTaskManager.exe
+DSGuest.exe
+C:\Program Files (x86)\Kaseya\
+C:\ProgramData\Kaseya\
+C:\Program Files (x86)\S3 Browser\*
+*\S3 Browser\*
+*\s3browser*.exe
+auvik.engine.exe
+auvik.agent.exe
+ltsvc.exe
+ltsvcmon.exe
+lttray.exe
+gotoassist.exe
+g2a*.exe
+GoTo Assist Opener.exe
+apc_host.exe
+C:\Program Files\RealVNC\VNC Server\*
+*\RealVNC\VNC Server\*
+RDPWInst.exe
+RDPCheck.exe
+RDPConf.exe
+paexec.exe
+PAExec-*.exe
+csexec.exe 
+remcom.exe
+remcomsvc.exe
+xcmd.exe
+xcmdsvc.exe
+Agent_*_RW.exe
+BASEClient.exe
+BASupApp.exe
+BASupSrvc.exe
+BASupSrvcCnfg.exe
+BASupTSHelper.exe
+C:\Downloads\SuperPuTTY\*
+*Downloads\SuperPuTTY\*
+*\superputty.exe
+*\SuperPuTTY\*
+helpu_install.exe
+HelpuUpdater.exe
+HelpuManager.exe
+C:\Program Files\SysAidServer\*
+*\SysAidServer\*
+*\SysAid\*
+*\IliAS.exe
+webrdp.exe
+SolarWinds-Dameware-DRS*.exe
+DameWare Mini Remote Control*.exe
+C:\Windows\dwrcs\*
+C:\Program Files\SolarWinds\Dameware Mini Remote Control\*
+dntus*.exe
+dwrcs.exe
+*\dwrcs\*
+*\dwrcst.exe
+DameWare Remote Support.exe
+SolarWinds-Dameware-MRC*.exe
+C:\Users\*\AppData\Roaming\SyncTrayzor\*
+*Users\*\AppData\Roaming\SyncTrayzor\*
+*\Syncthing.exe
+mygreenpc.exe
+support-logmeinrescue*.exe
+support-logmeinrescue.exe
+lmi_rescue.exe
+*\putty.exe
+C:\Program Files (x86)\Xpra\*
+*\Xpra\*
+*\Xpra-Launcher.exe
+*\Xpra-x86_64_Setup.exe
+C:\Program Files\ZOC8\*
+*\ZOC?\*
+*\zoc.exe
+ngrok.exe
+C:\*\ngrok.zip
+*\ngrok*
+level-windows-amd64.exe
+level.exe
+level-remote-control-ffmpeg.exe
+remotepass-access.exe
+rpaccess.exe
+rpwhostscr.exe
+xeox-agent_x64.exe
+xeox_service_windows.exe
+xeox-agent_*.exe
+xeox-agent_x86.exe
+simplehelpcustomer.exe
+simpleservice.exe
+simplegatewayservice.exe
+remote access.exe
+windowslauncher.exe
+C:\Program Files\TightVNC\*
+*\TightVNC\*
+BASupSrvc.exe
+winagent.exe
+BASupApp.exe
+BASupTSHelper.exe
+Agent_*_RW.exe
+BASEClient.exe
+BASupSrvcCnfg.exe
+rport.exe
+quickassist.exe
+cloudflared.exe
+ITSMAgent.exe
+RViewer.exe
+ItsmRsp.exe
+RAccess.exe
+RmmService.exe
+ITarianRemoteAccessSetup.exe
+RDesktop.exe
+ComodoRemoteControl.exe
+ITSMService.exe
+RHost.exe
+psexec.exe
+psexecsvc.exe
+domotz.exe
+Domotz Pro Desktop App.exe
+domotz_bash.exe
+domotz*.exe
+Domotz Pro Desktop App Setup*.exe
+domotz-windows*.exe
+RDConsole.exe
+RocketRemoteDesktop_Setup.exe
+iit.exe
+intouch.exe
+I'm InTouch Go Installer.exe
+rutview.exe
+rutserv.exe
+remoteconsole.exe
+iadmin.exe
+intelliadmin.exe
+agent32.exe
+agent64.exe
+agent_setup_5.exe
+mwcliun.exe
+pcnmgr.exe
+webexpcnow.exe
+saazapsc.exe
+*ProgramData\NinjaRMMAgent\*
+OTService.exe
+OTPowerShell.exe
+islalwaysonmonitor.exe
+isllight.exe
+isllightservice.exe
+ISLLightClient.exe
+C:\Program Files (x86)\ISL Online\ISL Light*
+*\ISL Online\ISL Light*
+*\ISLLight.exe
+wisshell*.exe
+wmc.exe
+wmc_deployer.exe
+wmcsvc.exe
+ezhelpclientmanager.exe
+ezHelpManager.exe
+ezhelpclient.exe
+crossloopservice.exe
+CrossLoopConnect.exe
+WinVNCStub.exe
+IvantiRemoteControl.exe
+ArcUI.exe
+AgentlessRC.exe
+sysdiag.exe
+nvClient.exe
+netviewer.exe
+C:\\ProgramData\\AMMYY\\*
+AMMYY_Admin.exe
+aa_v*.exe
+C:\Users\*\Downloads\AMMYY_Admin.exe
+*\AMMYY_Admin.exe
+simplehelpcustomer.exe
+simpleservice.exe
+simplegatewayservice.exe
+remote access.exe
+windowslauncher.exe
+spsrv.exe
+serviceconfig.xml
+ir_agent.exe
+rapid7_agent_core.exe
+rapid7_endpoint_broker.exe
+parallelsaccess-*.exe
+TSClient.exe
+prl_deskctl_agent.exe
+prl_deskctl_wizard.exe
+prl_pm_service.exe
+C:\Program Files\Solar-Putty-v4\*
+*\Solar-Putty-v4\*
+*\Solar-PuTTY.exe
+ltsvc.exe
+GotoHTTP_x64.exe
+gotohttp.exe
+GotoHTTP*.exe
+guacd.exe
+lmnoipserver.exe
+ROMFUSClient.exe
+romfusclient.exe
+romviewer.exe
+romserver.exe
+ROMServer.exe
+dcagentservice.exe
+dcagentregister.exe
+supremo.exe
+supremoservice.exe
+supremosystem.exe
+supremohelper.exe
+c:\Program Files (x86)\Sysprogs\SmarTTY\*
+*\Sysprogs\SmarTTY\*
+*\SmarTTY.exe
+termsrv.exe
+mstsc.exe
+Microsoft Remote Desktop
+netviewer*.exe
+netviewer.exe
+ImperoClientSVC.exe
+C:\Users\*\ExtraPuTTY-0.30-2016-01-28-installer.exe
+*Users\*\ExtraPuTTY-0.30-2016-01-28-installer.exe
+*\ExtraPuTTY-0.30-2016-01-28-installer.exe
+PCMonitorManager.exe
+pcmonitorsrv.exe
+myivomgr.exe
+myivomanager.exe
+C:\Program Files (x86)\AnyViewer\*
+C:\Program Files\LiteManager Pro – Viewer\*
+*\LiteManager Pro – Viewer\*
+*\LMNoIpServer.exe
+qq.exe
+QQProtect.exe
+qqpcmgr.exe
+rfusclient.exe
+rutserv.exe
+SensoClient.exe
+SensoService.exe
+aadg.exe
+MEAgentHelper.exe
+MonitoringAgent.exe
+Site24x7WindowsAgentTrayIcon.exe
+Site24x7PluginAgent.exe
+C:\Program Files\Level\*
+C:\Users\IEUser\Downloads\WinSCP-5.21.6-Portable\*
+*\WinSCP*Portable\*
+*\WinSCP.exe
+*\WinSCP\*
+todesk.exe
+ToDesk_Service.exe
+ToDesk_Setup.exe
+tacticalrmm.exe
+tacticalrmm.exe
+servereye*.exe
+ServiceProxyLocalSys.exe
+ltsvc.exe
+ltsvcmon.exe
+lttray.exe
+UltraVNC*.exe
+C:\Program Files (x86)\RemotePC\*
+saazapsc.exe
+zabbix_agent*.exe
+royalserver.exe
+royalts.exe
+pocketcloud*.exe
+pocketcloudservice.exe
+remoteview.exe
+rv.exe
+rvagent.exe
+rvagtray.exe
+oo-syspectr*.exe
+OOSysAgent.exe
+C:\Users\*\AppData\Local\MEGAsync\*
+*Users\*\AppData\Local\MEGAsync\*
+*ProgramData\MEGAsync\*
+*\MEGAsyncSetup64.exe
+*\MEGAupdater.exe
+SRServer.exe
+SplashtopSOS.exe
+Splashtop_Streamer_Windows*.exe
+SRManager.exe
+aeroadmin.exe
+AeroAdmin.exe
+ctiserv.exe
+C:\Program Files (x86)\OnionShare\*
+*\OnionShare\*
+*\onionshare*.exe
+OnionShare-win*.msi
+InstallShield Setup.exe
+ManageEngine_Remote_Access_Plus.exe
+*\dcagentservice.exe
+C:\Program Files (x86)\DesktopCentral_Agent\bin\*
+*\DesktopCentral_Agent\bin\*
+tvnviewer.exe
+TightVNCViewerPortable*.exe
+tvnserver.exe
+C:\AlpemixService.exe
+C:\AlpemixSrvc\
+winvnc*.exe
+vncserver.exe
+winwvc.exe
+winvncsc.exe
+vncserverui.exe
+vncviewer.exe
+winvnc.exe
+mikogo.exe
+mikogo-starter.exe
+mikogo-service.exe
+mikogolauncher.exe
+C:\Users\*\AppData\Roaming\Mikogo\*
+*Users\*\AppData\Roaming\Mikogo\*
+*\Mikogo-Service.exe
+*\Mikogo-Screen-Service.exe
+UltraViewer_Service.exe
+UltraViewer_setup*
+UltraViewer_Desktop.exe
+ultraviewer.exe
+C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop.exe
+*\UltraViewer\
+*\UltraViewer_Desktop.exe
+ultraviewer_desktop.exe
+ultraviewer_service.exe
+UltraViewer_Desktop.exe
+UltraViewer_setup*
+UltraViewer_Service.exe
+rpcnet.exe
+ctes.exe
+ctespersitence.exe
+cteshostsvc.exe
+rpcld.exe
+C:\ProgramFiles*\GoTo Machine Installer\*
+*\GoTo Machine Installer\*
+*\GoTo\*
+C:\*\SecureCRT.EXE
+*\SecureCRT.EXE
+*\VanDyke Software\ClientPack\*
+mionet.exe
+mionetmanager.exe
+weezohttpd.exe
+weezo.exe
+weezo setup*.exe
+jumpclient.exe
+jumpdesktop.exe
+jumpservice.exe
+jumpconnect.exe
+jumpupdater.exe
+EricomConnectRemoteHost*.exe
+ericomconnnectconfigurationtool.exe
+connectwisechat-customer.exe
+connectwisecontrol.client.exe
+screenconnect.windowsclient.exe
+pocketcontroller.exe
+wysebrowser.exe
+XSightService.exe
+rutview.exe
+*\Remote Manipulator System - Server\*
+C:\Program Files\Remote Utilities\*
+*\Remote Utilities\*
+rutserv.exe
+*\rutserv.exe
+rdp.exe
+Pilixo_Installer*.exe
+C:\Program Files (x86)\Yandex\*
+*\Yandex\*
+*\YandexDisk2.exe
+pocketcontroller.exe
+pocketcloudservice.exe
+wysebrowser.exe
+termsrv.exe
+mstsc.exe
+level-windows-amd64.exe
+level.exe
+level-remote-control-ffmpeg.exe
+C:\Program Files (x86)\Bitvise SSH Client\*
+*\Bitvise SSH Client\*
+*\BvSshClient-Inst.exe
+C:\Program Files\TeamViewer\
+teamviewer_desktop.exe
+teamviewer_service.exe
+teamviewerhost
+C:\Users\USERNAME\AppData\Roaming\Insync\App\Insync.exe
+*Users\*\AppData\Roaming\Insync\App\Insync.exe
+*\Insync.exe
+awhost32.exe
+awrem32.exe
+pcaquickconnect.exe
+winaw32.exe
+ultimate_*.exe
+Beinsync*.exe
+ARDAgent.app
+C:\*\G2RDesktopConsole-x64.msi
+*\G2RDesktopConsole-x64.msi
+pcictlui.exe
+pcicfgui.exe
+client32.exe
+p9agent*.exe
+ehorus standalone.exe
+C:\Program Files (x86)\SmartFTP Client\en-US\
+*\SmartFTP Client\*
+*\SfShellTools.dll.mui
+nhostsvc.exe
+nhstw32.exe
+nldrw32.exe
+rmserverconsolemediator.exe
+dwrcs.exe
+Remote Workforce Client.exe
+alitask.exe
+pcictlui.exe
+client32.exe
+pcicfgui.exe
+*\ISLLight.exe
+isllight.exe
+ISLLightClient.exe
+C:\Program Files (x86)\ISL Online\ISL Light*
+*\ISL Online\ISL Light*
+ISLLight.exe
+isllightservice.exe
+islalwaysonmonitor.exe
+nateon*.exe
+nateon.exe
+nateonmain.exe
+superopsticket.exe
+superops.exe
+C:\Program Files (x86)\AnyDesk\*
+C:\Program Files\AnyDesk\*
+quickassist.exe
+iperius.exe
+iperiusremote.exe
+C:\Program Files (x86)\RemotePC\*
+Idrive.File-Transfer
+*\RemotePC\*
+remotepcservice.exe
+RemotePC.exe
+remotepchost.exe
+idrive.RemotePCAgent
+rpcsuite.exe
+*\RemotePCService.exe
+RemotePCService.exe
+tsircusr.exe
+laplink.exe
+C:\Windows\Action1\*
+C:\Program Files\Danware Data\NetOp Packn Deploy\*
+*\Danware Data\NetOp Packn Deploy\*
+*\Netop Remote Control\*
+C:\Program Files (x86)\Bluetrait Agent\*
+remcos*.exe
+KHelpDesk.exe
+seetrolcenter.exe
+seetrolclient.exe
+seetrolmyservice.exe
+seetrolremote.exe
+seetrolsetting.exe
+accessserver*.exe
+accessserver.exe
+goverrmc.exe
+govsrv*.exe
+GovAgentInstallHelper.exe
+GovAgentx64.exe
+GovReachClient.exe
+C:\Program Files (x86)\PJ Technologies\GOVsrv\*
+*\PJ Technologies\GOVsrv\*
+*\GovSrv.exe
+rcengmgru.exe
+rcmgrsvc.exe
+rxstartsupport.exe
+rcstartsupport.exe
+raautoup.exe
+agentu.exe
+remotesupportplayeru.exe
+Online Backup.exe
+CBBackupPlan.exe
+Cloud.Backup.Scheduler.exe
+Cloud.Backup.RM.Service.exe
+cbb.exe
+CloudRaService.exe
+CloudRaSd.exe
+CloudRaCmd.exe
+CloudRaUtilities.exe
+Remote Desktop.exe
+Connect.exe
+C:\Program Files (x86)\Almageste\DragonDisk\*
+*\Almageste\DragonDisk\*
+*\DragonDisk.exe
+era.exe
+einstaller.exe
+ezhelp*.exe
+eratool.exe
+ERAAgent.exe
+zaservice.exe
+ZMAgent.exe
+C:\*\ZA_Access.exe
+ZohoMeeting.exe
+Zohours.exe
+zohotray.exe
+ZohoURSService.exe
+*\ZA_Access.exe
+Zaservice.exe
+za_connect.exe
+C:\*\kitty.exe
+*\kitty.exe
+mRemoteNG.exe
+C:\Program Files (x86)\mRemoteNG\*
+*\mRemoteNG\*
+*\mRemoteNG.exe
+c:\Program Files (x86)%\mRemoteNG
+*%\mRemoteNG
+mRemoteNG-Installer-*.msi
+*\mRemoteNG.exe
+C:\*\puttytray.exe
+*\puttytray.exe
+requires sign up
+requires sign up
+itsmagent.exe
+rviewer.exe
+basuptshelper.exe
+basupsrvcupdate.exe
+BASupApp.exe
+BASupSysInf.exe
+BASupAppSrvc.exe
+TakeControl.exe
+BASupAppElev.exe
+basupsrvc.exe
+C:\Program Files\Parsec\*
+parsecd.exe
+pservice.exe
+konea.exe
+tailscale-*.exe
+tailscaled.exe
+tailscale-ipn.exe
+nomachine*.exe
+nxservice*.ese
+nxd.exe
+C:\Program Files\Bitvise SSH Server\*
+*\Bitvise SSH Server\*
+*\BvSshServer-Inst.exe
+C:\Program Files (x86)\NetSarang\xShell\*
+*\NetSarang\xShell\*
+*\xShell.exe
+remobo.exe
+remobo_client.exe
+remobo_tracker.exe
