@@ -37,6 +37,8 @@ c:\alpemixservice.exe
 c:\program files (x86)\radmin viewer 3\radmin.exe
 c:\program files (x86)\screenconnect client (random)\screenconnect.clientservice.exe
 c:\program files (x86)\ultraviewer\ultraviewer_desktop.exe
+c:\program files\0x101 cyber security\netlock rmm\useragent\netlock_rmm_user_process.exe
+c:\program files\0x101 cyber security\netlock rmm\useragent\netlock_rmm_user_uac.exe
 c:\users\username\appdata\roaming\insync\app\insync.exe
 c:\windows\system32\mstsc.exe
 c:\windows\syswow64\rserver30\rserver3.exe
@@ -101,8 +103,11 @@ fleetdeck_agent_svc.exe
 fleetdeck_commander_launcher.exe
 fleetdeck_commander_svc.exe
 fleetdeck_installer.exe
+g2ax_comm_customer.exe
+g2mcomm.exe
 getscreen.exe
 goto assist opener.exe
+goto opener.exe
 gotoassist.exe
 gotohttp.exe
 gotohttp_x64.exe
@@ -117,6 +122,7 @@ guacd.exe
 helpu_install.exe
 helpumanager.exe
 helpuupdater.exe
+hoptodesk.exe
 hsloader.exe
 i'm intouch go installer.exe
 iadmin.exe
@@ -186,6 +192,7 @@ myivomanager.exe
 myivomgr.exe
 nateon.exe
 nateonmain.exe
+netlock_rmm_agent_installer.exe
 netop ondemand.exe
 neturo.exe
 netviewer.exe
